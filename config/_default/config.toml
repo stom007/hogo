@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl      = "https://stom007.github.io/bk/"
-languageCode = "en-us"
+languageCode = "en-us;zh-cn"
 title        = "Tom的博客"
 
 # Theme i18n support
@@ -15,4 +15,4 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 [pagination]
-    pagerSize = 5
+    pagerSize = 10
